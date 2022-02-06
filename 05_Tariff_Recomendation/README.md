@@ -5,7 +5,7 @@
 необходимо построить модель, которая предложит наиболее подходящий тариф для пользователей архивных тарифов.
 
 **Инструменты:**
-Scikit-learn, Pandas, Matplotlib, Plotly, NumPy.
+Scikit-learn, Pandas, Matplotlib, Plotly, NumPy, tqdm.
 
 **Цель:**
 Построить модель с максимально большим значением accuracy_score.
