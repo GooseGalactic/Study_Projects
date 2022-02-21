@@ -14,6 +14,7 @@
 [id8]: https://github.com/GooseGalactic/Study_Projects/tree/main/08_Gold_Ore_Recovery "Gold Recovery project"
 [id9]: https://github.com/GooseGalactic/Study_Projects/tree/main/09_Personal_Data_Protection "Personal Data Protection project"
 [id10]: https://github.com/GooseGalactic/Study_Projects/tree/main/10_Auto_Price_Prediction "Vehicle Cost Prediction project"
+[id11]: https://github.com/GooseGalactic/Study_Projects/tree/main/11_Taxi_Orders_Prediction "Taxi Orders Prediction project"
 
 | № | Проект | Описание | Инструменты |
 | :- | :--------------------- | :---------------------------| :---------------------------|
@@ -27,3 +28,4 @@
 | 8 | [Предсказание коэффициента восстановления золота из золотосодержащей руды][id8] | В моем распоряжении данные с различными признаками, зафиксированными в процессе нескольких этапов очистки золотосодержащей руды. Необходимо подготовить модель, которая будет предсказывать коэффициент восстановления золота. | Scikit-learn, Pandas, NumPy, SciPy, Matplotlib, Seaborn. Машинное обучение, предобработка данных, визуализация, проверка гипотез. |
 | 9 | [Защита персональных данных клиентов страховой компании][id9] | Необходимо защитить персональные данные клиентов страховой компании. Разработать такой метод преобразования данных, чтобы по ним было тяжело восстановить исходную информацию и при этом не менялось качество линейной регрессии. | Scikit-learn, Pandas, NumPy, Random, Matplotlib, Seaborn. Линейная алгебра, машинное обучение. |
 | 10 | [Определение рыночной стоимости автомобиля][id10] | В моем распоряжении исторические данные с техническими характеристиками, комплектациями и ценами автомобилей. Необходимо построить и сравнить несколько моделей для определения стоимости автомобиля. | Scikit-learn, LightGBM, XGBoost, Catboost, Pandas, NumPy, Matplotlib, Seaborn. Градиентный бустинг, машинное обучение, One-Hot Encoding, Ordinal Encoding, масштабирование данных. |
+| 11 | [Прогнозирвоание количества заказов такси][id11] | Имеются исторические данные о заказах такси. Необходимо построить модель для прогнозирования количества заказов такси. | LightGBM, Scikit-learn, Statsmodels, Pandas. Временные ряды, машинное обучение, создание признаков. |
