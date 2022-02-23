@@ -9,3 +9,6 @@ Scikit-learn, Pandas, Matplotlib, Plotly, NumPy, tqdm.
 
 **Цель:**
 Построить модель с максимально большим значением accuracy_score.
+
+**Выводы:**
+Удалось добиться 84.14% accuracy на тестовой выборке.
