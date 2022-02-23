@@ -8,3 +8,6 @@ Scikit-learn, Pandas, NumPy, SciPy, Matplotlib, Seaborn.
 
 **Цель:**
 Обучить модель с наименьшей метрикой smape.
+
+**Выводы:**
+Удалось достичь показателя smape 6% на тестовой выборке.
